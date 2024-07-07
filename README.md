@@ -13,7 +13,7 @@ This repository includes multiple NLP models to automate different kinds of task
 #### 1_Machine Translation
 Open-source machine translation (MT) models enable translation between different languages without Google Translate. Many models have more than 1000 language pairs to the hugging face hub. 
 Three models in our Machine Translation file translate different languages in one direction. These three models are:
-##### 1. https://huggingface.co/Helsinki-NLP
-##### 2. https://huggingface.co/models?search=facebook+m2m
-##### 3. https://github.com/UKPLab/EasyNMT 
+ 1. https://huggingface.co/Helsinki-NLP
+ 2. https://huggingface.co/models?search=facebook+m2m
+ 3. https://github.com/UKPLab/EasyNMT 
 
