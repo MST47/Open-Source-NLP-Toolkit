@@ -19,8 +19,10 @@ Three models in our Machine Translation file translate different languages in on
 
 #### 2_ Text Summarization and Named Entity Recognition
 The repository file Text Summarization and Named Entity Recognition.ipynb contains two models such as:<br />
+<br />
 **i. Text Summarization**:
 Text summarization is the process of automatically generating a concise and coherent summary of a larger text document. This repository utilizes transformer models from Hugging Face to perform both extractive and abstractive summarization, allowing for quick and accurate distillation of information from lengthy documents.<br />
+<br />
 **ii. Named Entity Recognition**:
 Named Entity Recognition (NER) is a subtask of information extraction that aims to identify and classify key entities (such as names, organizations, locations, etc.) within text. Using state-of-the-art transformer models, this repository provides tools to accurately detect and categorize entities, enabling enhanced text analysis and understanding.
 
