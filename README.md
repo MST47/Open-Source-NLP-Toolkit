@@ -34,3 +34,6 @@ Universal models can partly address this issue. They also only one task. But thi
 **i. Natural Language Inference (NLI)**: A task that can solve any classification task.<br />
 **ii. Token generation**: An even more universal task that can solve any text-related task.<br />
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
