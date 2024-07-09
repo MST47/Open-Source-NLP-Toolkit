@@ -18,17 +18,17 @@ Three models in our Machine Translation file translate different languages in on
  3. https://github.com/UKPLab/EasyNMT
 
 #### 2_ Text Summarization and Named Entity Recognition
-The repository file Text Summarization and Named Entity Recognition.ipynb contains two models such as:
+The repository file Text Summarization and Named Entity Recognition.ipynb contains two models such as:<br />
 **i. Text Summarization**:
-Text summarization is the process of automatically generating a concise and coherent summary of a larger text document. This repository utilizes transformer models from Hugging Face to perform both extractive and abstractive summarization, allowing for quick and accurate distillation of information from lengthy documents.
+Text summarization is the process of automatically generating a concise and coherent summary of a larger text document. This repository utilizes transformer models from Hugging Face to perform both extractive and abstractive summarization, allowing for quick and accurate distillation of information from lengthy documents.<br />
 **ii. Named Entity Recognition**:
 Named Entity Recognition (NER) is a subtask of information extraction that aims to identify and classify key entities (such as names, organizations, locations, etc.) within text. Using state-of-the-art transformer models, this repository provides tools to accurately detect and categorize entities, enabling enhanced text analysis and understanding.
 
 #### 3_Universal Models
-The models described above are always tailored to one specific task from one dataset. The main advantage of these models is, that they are very good at this specific task and perform well on one specific dataset. In reality, however, he problems you will encounter in the real world will require a slightly different task, with different definitions of categories or on different types of texts.
+The models described above are always tailored to one specific task from one dataset. The main advantage of these models is, that they are very good at this specific task and perform well on one specific dataset. In reality, however, he problems you will encounter in the real world will require a slightly different task, with different definitions of categories or on different types of texts.<br />
 
-Universal models can partly address this issue. They also only one task. But this one task is to general/universal, that many other tasks can be reformulated as this universal task. Two examples for universal tasks are:
+Universal models can partly address this issue. They also only one task. But this one task is to general/universal, that many other tasks can be reformulated as this universal task. Two examples for universal tasks are:<br />
 
-**i. Natural Language Inference (NLI)**: A task that can solve any classification task.
-**ii. Token generation**: An even more universal task that can solve any text-related task.
+**i. Natural Language Inference (NLI)**: A task that can solve any classification task.<br />
+**ii. Token generation**: An even more universal task that can solve any text-related task.<br />
 
